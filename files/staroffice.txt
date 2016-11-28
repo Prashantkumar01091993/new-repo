@@ -1,0 +1,230 @@
+                                                  StarOffice
+
+
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+StarOffice StarOffice Logo.png
+StarOffice 9.1.0 running on Windows 7
+StarOffice 9.1.0 running on Windows 7
+Original author(s) 	StarDivision, Sun Microsystems
+Developer(s) 	Oracle Corporation
+Discontinued 	Oracle Open Office 3.3 / December 2010
+Development status 	Discontinued[1]
+Operating system 	Windows, Mac OS X, Linux, Solaris[2][dead link]
+Platform 	Cross-platform
+Type 	Office suite
+License 	Proprietary
+Website 	Oracle Open Office homepage (archive.org)
+
+StarOffice, known briefly as Oracle Open Office before its discontinuation in 2010, was a proprietary office suite. It was originally developed by StarDivision which was acquired by Sun Microsystems in 1999. Sun was itself acquired in 2009 by Oracle Corporation.
+
+StarOffice supports the OpenOffice.org XML file format, as well as the OpenDocument standard, and can generate PDF and Flash formats. It includes templates, a macro recorder, and a software development kit (SDK).
+
+The source code of the suite was released in July 2000, creating a free, open source office suite called OpenOffice.org, which subsequent versions of StarOffice were based on, with additional proprietary components.[3]
+
+In March 2009, a study showed that StarOffice only had a 3% market share in the corporate market.[4]
+
+In April 2011, Oracle announced the discontinuation of Oracle Open Office[1] as part of the decision to turn OpenOffice.org into a "purely community-based project".[5]
+Contents
+
+    1 Naming
+    2 Sun ONE Webtop
+    3 Components
+        3.1 Older discontinued components
+        3.2 Proprietary components
+        3.3 Other differences
+    4 History
+        4.1 StarOffice 1.0
+        4.2 StarOffice 3.0
+            4.2.1 3.1
+        4.3 StarOffice 4.0
+        4.4 StarOffice 5
+            4.4.1 5.1
+            4.4.2 5.2
+        4.5 StarOffice 6
+        4.6 StarOffice 7
+        4.7 StarOffice 8
+        4.8 StarOffice 9
+        4.9 Oracle Open Office
+    5 Pricing and licensing
+    6 See also
+    7 References
+    8 External links
+
+Naming
+
+StarSuite, the version of StarOffice with Asian language localization, included Japanese, Korean, Simplified Chinese and Traditional Chinese interfaces. It also included additional fonts for the East Asian market, resulting in slightly larger installation footprint. Otherwise the features were identical to StarOffice.
+
+The two brands existed because the StarOffice brand was owned by another company in certain Asian countries.[6] Currently NEC produces StarOffice collaborative software in Japan.[7] After Oracle acquired Sun Microsystems (in January 2010) it renamed both StarOffice and StarSuite as "Oracle Open Office".[8]
+Sun ONE Webtop
+
+In 2001 Sun Microsystems announced Sun ONE Webtop - formerly known as project StarPortal - a limited release. It is based on StarOffice components.[9]
+Components
+
+    Oracle Open Office Writer — word processor .sdw (StarWriter 5.x) .sxw (StarOffice 6.x) .odt .ott -files
+    Oracle Open Office Calc — spreadsheet .sdc (StarCalc 5.x) .sxc (6.x) .ods .ots -files
+    Oracle Open Office Impress — presentation program .sdd (StarImpress 5.x) .sxi (6.x) .odp .otp -files
+    Oracle Open Office Draw — drawing program .sda (StarDraw 5.x) .sxd (6.x) .odg .otg -files
+    Oracle Open Office Base  — database .sdb (StarBase 5.x) .odb -files
+    Oracle Open Office Math — formula generator .smf (StarMath 5.x) .sxm (6.x) .odf -files
+
+Older discontinued components
+
+    StarSchedule — personal information manager .sds -files
+    StarMail — e-mail client
+    StarDiscussion — news client
+    Web browser - web browser[10][11]
+    HTML editor - html editor[10]
+
+Proprietary components
+
+    Several font metric compatible Unicode TrueType fonts containing bitmap representations for better appearance at smaller font sizes
+    Twelve Western fonts (including Andalé Sans, Arial Narrow, Arial Black, Broadway, Garamond, Imprint MT Shadow, Kidprint, Palace Script, Sheffield) and seven Asian language fonts (including support for the Hong Kong Supplementary character set)
+    Adabas D database
+    StarOffice-only templates and sample documents
+    A large clip-art gallery
+    Sorting functionality for Asian versions
+    File-import filters for additional older word-processing formats (including EBCDIC, DisplayWrite, MultiMate, PFS Write, WordStar, WordStar 2000, and XyWrite (conversion filters licensed from MasterSoft))
+    A different spell checker (note that OpenOffice.org includes a spell checker as well) and thesaurus
+    StarOffice Configuration Manager
+    Macro Converter for converting Microsoft Office VBA macros to StarOffice Basic
+
+For StarOffice Enterprise Edition only:
+
+    Professional Analysis Wizard
+    Wizard to create Microsoft Windows Installer Transformation files (.mst files)
+
+Other differences
+
+There are also differences in the documentation, training and support options, and some minor differences in the look and icons between Oracle Open Office and OpenOffice.org.
+
+Other differences are that StarOffice only supports 12 languages,[12] compared to over 110 for OpenOffice.org.[13]
+History
+
+The German company StarDivision in Lüneburg (founded by 16-year-old Marco Börries in 1984) wrote the original components of StarOffice. StarDivision developed the first version of StarWriter for the Zilog Z80 home-computer system, the Amstrad CPC (marketed by Schneider in Germany) under CP/M, and later for the Commodore 64 under Microsoft BASIC[citation needed], which was later ported to the 8086-based Amstrad PC-1512, running under MS-DOS 3.2. Later, the integration of the other individual programs followed as the development progressed to an Office Suite for DOS, IBM's OS/2 Warp, and for the Microsoft Windows operating-system. From this time onwards StarDivision marketed its suite under the name "StarOffice."
+
+Until version 4.2, StarDivision based StarOffice on the cross-platform C++ class library StarView. In 1998 StarDivision began offering StarOffice for free.
+
+Sun Microsystems acquired the company, copyright and trademark of StarOffice in 1999 for US$73.5 million. Sun wanted to compete with Microsoft Office, and also wanted to save money on licenses for Microsoft Office and Windows:
+
+    The number one reason why Sun bought StarDivision in 1999 was because, at the time, Sun had something approaching forty-two thousand employees. Pretty much every one of them had to have both a Unix workstation and a Windows laptop, and it was cheaper to buy a company that could make a Solaris and Linux desktop productivity suite than it was to buy forty-two thousand licenses from Microsoft. — Simon Phipps, Sun, LUGradio podcast
+
+StarOffice 1.0
+
+The first StarOffice suite included StarWriter compact, StarBase 1.0, StarDraw 1.0.
+
+Supported platforms included DOS.
+StarOffice 3.0
+
+StarOffice 3.0 included StarWriter 3.0, StarCalc 3.0, StarDraw 3.0, StarImage, StarChart.
+
+Supported platforms included DOS, Windows 3.1, OS/2, Solaris Sparc. Power Mac beta support was introduced in 1996.
+3.1
+
+Supported platforms included Windows 3.1/95, OS/2 (16-bit), Linux i386, Solaris Sparc/x86, Mac OS 7.5 – 8.0.
+StarOffice 4.0
+
+Supported platforms included Windows 3.1/95, OS/2, Linux i386, Solaris Sparc/x86, Mac OS (beta).
+StarOffice 5
+
+Supported platforms included Windows 95/NT 3.51, OS/2, Linux i386, Solaris Sparc/x86.
+5.1
+
+Supported platforms included Windows 95, OS/2, Linux i386, Solaris Sparc/x86.
+5.2
+
+Sun offered StarOffice 5.2 as a free download for personal use, and soon went through an exercise similar to Netscape's relicensing of Mozilla, by releasing most of the StarOffice source code under a free/open source license. The resultant free/open source software codebase fork continued development as OpenOffice.org, with contributions from both Sun and the wider OpenOffice.org community. Sun then took "snapshots" of the OpenOffice.org code base, integrated proprietary and third-party code modules, and marketed the package commercially.
+
+StarOffice 5.2 was the last version to contain the programs listed under Older Discontinued Components. It was also the last version to support multiple virtual desktops, previously available from within the Suite.
+
+Supported platforms included: MS Windows 95, 98, NT, 2000; Linux i386; Solaris Sparc/x86.
+StarOffice 6
+
+Sun based StarOffice 6 on OpenOffice.org 1.0.
+
+Support for OpenOffice.org XML file format.
+
+Supported platforms included Windows 95, Linux i386, Solaris Sparc/x86. OpenOffice.org version also supported Windows ME/2000 for Asian/CJK versions, generic Linux 2.2.13 with glibc2 2.1.3, Solaris 7 SPARC (8 for Asian version).
+StarOffice 7
+
+Based on OpenOffice.org 1.1.
+
+Supported platforms included Windows 98, Linux i386, Solaris 8 Sparc/x86. OpenOffice.org version also supports generic Linux with Glibc 2.2.0, Mac OS X 10.2 for PowerPC with X11 in OOO 1.1.2.
+
+Product Update 5 added Windows NT 4.0 as a supported platform and incorporated support for the OpenDocument file-format.
+
+Product Updates 6-8 are based on OpenOffice.org 2.1. The OOO version added support for Mac OS X 10.3 for PowerPC, and for Mac OS X 10.4 for x86.
+
+Product Updates 9-11 built on OpenOffice.org 2.2. New features included enhanced Windows Vista integration, PDF export.
+
+Product Update 12 was based on OpenOffice.org 2.4. The OOO version added support for Linux x86-64, Linux MIPS, Linux S390, Mac OS X x86/PPC above 10.4. New features included improved input and sorting in Calc, block markings in text documents, new import filtering, improved security, access to WebDAV servers via HTTPS, and PDF export for long-term archiving.
+StarOffice 8
+
+In September 2005, Sun released StarOffice 8 (based on the code of OpenOffice.org 2.0), adding support for the OpenDocument standard and a number of improvements.([14]
+
+Supported platforms include Windows 98/2000 (Service Pack 2 or higher), Linux i386, Solaris 8 Sparc/x86. OpenOffice.org version also supports generic Linux 2.2.13 with glibc2 2.2.0, Mac OS X 10.4 in OOO 2.0.3 with X11.
+
+Product Updates 2-5 are based on OpenOffice.org 2.1. OOO version added support of Mac OS X 10.3 for PowerPC, Mac OS X 10.4 for x86.
+
+Product Updates 6-7 are based on OpenOffice.org 2.2. New features include enhanced Windows Vista integration, PDF export.
+
+Product Updates 8-9 are based on OpenOffice.org 2.3. New features include bookmark support for PDF export, MediaWiki export in Writer.
+
+Product Updates 10-11 are based on OpenOffice.org 2.4. OOO version added support of Linux x86-64, Linux MIPS, Linux S390, Mac OS X x86/PPC above 10.4. New features include improved input and sorting in Calc, block markings in text documents, new import filter, improved security, access to WebDAV servers via HTTPS, PDF export for long-term archiving.
+StarOffice 9
+
+StarOffice 9, released in November 2008, added support for version 1.2 of the OpenDocument standard and Microsoft Office 2007 files and a number of other improvements.[15]
+
+It is based on OpenOffice.org 3.0.
+
+Supported platforms include Windows 2000 (Service Pack 2 or higher), Mac OS X 10.4 (Intel version), Linux 2.4 i386 with glibc2 version 2.3.2 or higher, gtk version 2.2.0 or higher, Solaris 10 for Sparc/x86. OOO version supports Mac OS X PPC, generic Linux platforms.
+
+Product Update 1 is based on OpenOffice.org 3.0.1, which adds improved extension manager, but requires extensions in the new format
+
+Product Update 2 is based on OpenOffice.org 3.1.0
+
+Product Update 3 is based on OpenOffice.org 3.1.1
+
+Product Update 4 is based on OpenOffice.org 3.2
+Oracle Open Office
+
+In December 2010, Oracle released 'Oracle Open Office' based on OpenOffice.org 3.3 and a web based version called Oracle Cloud Office.[16] The suite was released in two versions which cost €39 or €49.95 .[16]
+Pricing and licensing
+
+Traditionally, StarOffice licenses sold for around US$70, but in 2004, Sun planned to offer subscription-based licenses to Japanese customers for about ¥1,980 (US$17) per year (Becker, 2004). P. Ulander, a desktop products manager for Sun, acknowledged that Sun planned to expand subscription-based licenses to other countries as well. As of January 2009 Sun's website offered StarOffice for US$34.95.[17]
+
+Sun used a per-person license for StarOffice, compared to the per-device licenses used for most other proprietary software. An individual purchaser gains the right to install the software on up to five computers. For example, a small-business owner can have the software on laptop, office and home computers, or a user with a computer running Microsoft Windows, and another running Linux, can install StarOffice on both computers.
+
+As of 2010, StarOffice 9 Software is no longer offered at no-charge to education customers. Education users can use OpenOffice.org 3.0, which has the same functionality as StarOffice 9 Software, or continue using StarOffice 8 Software, which remains no-charge. Sun also offered free web-based training and an online tutorial for students and teachers, free support services for teachers (including educational templates for StarOffice) and significantly discounted technical support for schools.
+
+From August 2007[18][19] to November 2008, Google offered StarOffice 8 as part of its free downloadable Google Pack application.[20][21][22]
+
+Users of the Solaris 11 Express Community Edition receive StarOffice 9 for free along with the operating system. OpenSolaris users who register their OS with Sun have the ability to download the Express Community Edition for free.[citation needed]
+See also
+
+    Comparison of office suites
+
+References
+
+    ^ a b Lowe, Alistair (2012-04-16). "Google and Oracle take the fight over Java in Android to court". Hexus. Retrieved 2012-05-07.
+    ^ "StarOffice — Tech Specs". Sun Microsystems, Inc.. Retrieved 2008-11-17.
+    ^ OpenOffice.org. "OpenOffice.org — FAQ — Overview". Retrieved 2010-02-04.
+    ^ McLeish, Sheri (2009-05-26). "Microsoft Office still owns the desktop, future of StarOffice unclear". ZDnet. Retrieved 2012-05-07.
+    ^ "OpenOffice.org to become a purely community-based project". 2011-04-15. Retrieved 2011-04-16.
+    ^ "FAQs for StarOffice Software". Sun.com. 2009-02-17. Retrieved 2009-08-12.
+    ^ "NEC StarOffice page". Nec.co.jp. Retrieved 2009-08-12.
+    ^ "Oracle's OpenOffice Page". Retrieved 2010-04-29.
+    ^ "Sun Announces Sun ONE Webtop, Developer Release Technology for Open Web Services". Findarticles.com. 2001-02-06. Retrieved 2009-08-12.
+    ^ a b Hall, Michael (2000-05-16). "Suites for the Sweet: StarOffice 5.2 - StarOffice and the Internet: Mail, News, and Web". LinuxPlanet. Retrieved 2009-01-19.
+    ^ "Star Division StarOffice 5.0 Personal Edition". 5x5media.com [Originally printed in "The Computer Paper Publication" (March 1999)]. Retrieved 2009-01-19.
+    ^ "StarOffice 9 (Electronic Download)". Online Store. Sun Microsystems, Inc.. Retrieved 2007-09-20.
+    ^ "OpenOffice.org — Projects — Native Language Confederation Project". Sun Microsystems. Retrieved 2007-09-20.
+    ^ "Sun Introduces New Version of StarOffice Software" (Press release). Sun Microsystems, Inc.. 2005-09-27. Retrieved 2007-09-20.
+    ^ Cohen, Peter (2008-11-17). "Sun offers Mac-native StarOffice 9 suite". Macworld. Retrieved 2008-11-17.
+    ^ a b Ihlenfeld, Jens; Pakalski, Ingo (2010-12-15). "Kostenpflichtiges Oracle Open Office 3.3 veröffentlicht" (in German). Golem.de. Retrieved 2012-05-07.
+    ^ "Get StarOffice Software". Sun Microsystems, Inc.. Retrieved 2009-01-16.
+    ^ "Sun Microsystems Announces StarOffice Software Suite to be Distributed Through Google Pack" (Press release). Sun Microsystems, Inc.. 2007-08-15. Retrieved 2007-09-20.
+    ^ Webb, Bill (2007-08-20). "Google Sneaks StarOffice 8 Into Google Pack". Lockergnome. Retrieved 2008-11-10.
+    ^ Agarwal, Amit (2008-11-06). "Free StarOffice Removed from Google Pack". Digital Inspiration. Retrieved 2008-11-10.
+    ^ Collins, Barry (2008-11-10). "PC Pro: News: StarOffice dropped from Google Pack". United Kingdom: PC Pro. Retrieved 2008-11-10.
+    ^ Skinner, Carrie-Ann (2008-11-10). "StarOffice dumped from free Google Pack". PC Advisor. Retrieved 2008-11-10

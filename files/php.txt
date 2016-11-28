@@ -1,0 +1,6 @@
+
+                                                   HypertextPreprocessor
+
+PHP is a general-purpose server-side scripting language originally designed for Web development to produce dynamic Web pages. It is one of the first developed server-side scripting languages to be embedded into an HTML source document rather than calling an external file to process data. The code is interpreted by a Web server with a PHP processor module which generates the resulting Web page. It also has evolved to include a command-line interface capability and can be used in standalone graphical applications.[2] PHP can be deployed on most Web servers and also as a standalone shell on almost every operating system and platform free of charge.[3] A competitor to Microsoft's Active Server Pages (ASP) server-side script engine[4] and similar languages, PHP is installed on more than 20 million Web sites and 1 million Web servers.[5] Software that uses PHP includes MediaWiki, Joomla, Wordpress, Concrete5, MyBB, and Drupal.
+PHP was originally created by Rasmus Lerdorf in 1995. The main implementation of PHP is now produced by The PHP Group and serves as the formal reference to the PHP language.[6] PHP is free software released under the PHP License, which is incompatible with the GNU General Public License (GPL) due to restrictions on the usage of the term PHP.[7]
+
