@@ -14,7 +14,6 @@
 <%
 String name=request.getParameter("name");
 session.setAttribute("name",name);
-session.setAttribute("name",name);
 
 String id=request.getParameter("id");
 session.setAttribute("id",id);
